@@ -1,0 +1,7 @@
+getgenv().Games = {
+    [920587237] = "https://raw.githubusercontent.com/robloxymoxy/scripts/main/adopt",
+}
+
+getgenv().Unknown = {
+
+}
